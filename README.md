@@ -15,19 +15,19 @@ This project focuses on creating a visually appealing tea shop landing page with
 
 ### 🏠 Hero Section
 
-![Hero Section](./screenshots/hero-section.png)
+![Hero Section](./screenshots/hero-section.png.png)
 
 ### 🍵 Featured Products
 
-![Products Section](./screenshots/products.png)
+![Products Section](./screenshots/products.png.png)
 
 ### 📰 Latest News Section
 
-![News Section](./screenshots/news.png)
+![News Section](./screenshots/news.png.png)
 
 ### ⭐ Testimonials Section
 
-![Testimonials Section](./screenshots/testimonials.png)
+![Testimonials Section](./screenshots/testimonials.png.png)
 
 ---
 
