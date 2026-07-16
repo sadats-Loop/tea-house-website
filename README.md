@@ -7,7 +7,7 @@ This project focuses on creating a visually appealing tea shop landing page with
 
 ## 🌐 Live Preview
 
-🔗 **Live Website:** Add your live website link here
+🔗 **Live Website:**(https://sadats-loop.github.io/tea-house-website/)
 
 ---
 
